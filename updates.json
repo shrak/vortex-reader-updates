@@ -3,9 +3,9 @@
     "vortex-reader@shrak": {
       "updates": [
         {
-          "version": "1.13.27",
-          "update_link": "https://github.com/shrak/vortex-reader-updates/releases/download/v1.13.27/vortex-reader-1.13.27.xpi",
-          "update_hash": "sha256:9e3eb97b9fefebd8fd3e8ba68b61725014c921857fda586f3615330fac8bfc8b",
+          "version": "1.13.29",
+          "update_link": "https://github.com/shrak/vortex-reader-updates/releases/download/v1.13.29/vortex-reader-1.13.29.xpi",
+          "update_hash": "sha256:c02040e0d166f8b8f7219d704d460c17f8eb07720942559d2e5ef3cfff0fc28f",
           "applications": {
             "gecko": {
               "strict_min_version": "115.0"
